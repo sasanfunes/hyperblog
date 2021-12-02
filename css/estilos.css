@@ -39,5 +39,7 @@ body
     padding: 1em;
     font-size: 0.8em;
     background: #ea3815;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
 
 }
